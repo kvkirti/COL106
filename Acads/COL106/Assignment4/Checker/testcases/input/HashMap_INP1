@@ -1,0 +1,26 @@
+TABLE_SIZE
+11
+PUT
+abc, 1
+PUT
+pqr, 2
+PUT
+xyz, 1
+PUT
+xyz, 2
+PUT
+pqr, 4
+GET
+pqr
+REMOVE
+pqr
+KEY_SET
+GET
+pqr
+CONTAINS
+abc
+REMOVE
+abc
+CONTAINS
+abc
+KEY_SET

@@ -1,0 +1,16 @@
+Put (109,14): null
+Put (3245,1435): null
+Put (345,643): null
+Get 345: 643
+Get 3245: 1435
+Get 109: 14
+Put (109,24): 14
+Get 109: 24
+Remove 345: 643
+Get 345: null
+Put (1,239): null
+Get 1: 239
+Get 2: null
+Remove 2: null
+Put (19,109): null
+Get 19: 109

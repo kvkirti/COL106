@@ -1,0 +1,22 @@
+TABLE_SIZE
+100003
+PUT
+addokrnxlt, 1
+PUT
+jpxiczzktx, 2
+GET
+jpxiczzktx
+GET
+addokrnxlt
+KEY_SET
+REMOVE
+addokrnxlt
+KEY_SET
+CONTAINS
+addokrnxlt
+REMOVE
+addokrnxlt
+KEY_SET
+REMOVE
+jpxiczzktx
+KEY_SET

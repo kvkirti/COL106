@@ -1,0 +1,34 @@
+TABLE_SIZE
+43
+PUT
+djxrt, 87
+PUT
+qocbq, 1
+PUT
+afgqj, 764
+PUT
+bpgln, 83
+PUT
+wvidq, 12
+KEY_SET
+GET
+wvidq
+GET
+afgqj
+GET
+djxrt
+GET
+bpgln
+REMOVE
+qocbq
+KEY_SET
+CONTAINS
+qocbq
+CONTAINS
+bpgln
+GET
+wvidq
+PUT
+wvidq, 100
+GET
+wvidq

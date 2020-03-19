@@ -1,0 +1,71 @@
+Bfs order: 
+Height: 0
+Rotate Count: 0
+Put (2,41): null
+Bfs order: 2 
+Height: 1
+Rotate Count: 0
+Put (69,72): null
+Bfs order: 2 69 
+Height: 2
+Rotate Count: 0
+Put (83,55): null
+Bfs order: 69 2 83 
+Height: 2
+Rotate Count: 1
+Remove 83: 55
+Bfs order: 69 2 
+Height: 2
+Rotate Count: 1
+Put (5,100): null
+Bfs order: 5 2 69 
+Height: 2
+Rotate Count: 3
+Put (109,14): null
+Bfs order: 5 2 69 109 
+Height: 3
+Put (3245,1435): null
+Bfs order: 5 2 109 69 3245 
+Height: 3
+Put (345,643): null
+Bfs order: 109 5 3245 2 69 345 
+Height: 3
+Put (13,12): null
+Bfs order: 109 5 3245 2 69 345 13 
+Height: 4
+Rotate Count: 5
+Remove 2: 41
+Bfs order: 109 13 3245 5 69 345 
+Height: 3
+Rotate Count: 7
+Remove 3245: 1435
+Bfs order: 109 13 345 5 69 
+Height: 3
+Rotate Count: 7
+Remove 109: 14
+Remove 13: 12
+Remove 5: 100
+Remove 96: null
+Remove 345: 643
+Remove 69: 72
+Bfs order: 
+Put (2,41): null
+Put (69,72): null
+Put (83,55): null
+Remove 83: 55
+Put (5,100): null
+Put (109,14): null
+Put (3245,1435): null
+Put (345,643): null
+Put (13,12): null
+Bfs order: 109 5 3245 2 69 345 13 
+Height: 4
+Rotate Count: 13
+Put (1,1044): null
+Bfs order: 109 5 3245 2 69 345 1 13 
+Height: 4
+Rotate Count: 13
+Remove 3245: 1435
+Bfs order: 5 2 109 1 69 345 13 
+Height: 4
+Rotate Count: 14

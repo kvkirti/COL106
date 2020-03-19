@@ -1,0 +1,16 @@
+Running checkstyle
+Comment :=>> RunTest.test10_6P ... failed -> 0 Points because HashMap (wrong name: col106/assignment4/HashMap/HashMap)
+Comment :=>> RunTest.test11_6P ... failed -> 0 Points because HashMap (wrong name: col106/assignment4/HashMap/HashMap)
+Comment :=>> RunTest.test12_3P ... failed -> 0 Points because WordCounter (wrong name: col106/assignment4/HashMap/WordCounter)
+Comment :=>> RunTest.test13_5P ... failed -> 0 Points because WordCounter (wrong name: col106/assignment4/HashMap/WordCounter)
+Comment :=>> RunTest.test1_10P ... failed -> 0 Points because WeakAVLMap (wrong name: col106/assignment4/WeakAVLMap/WeakAVLMap)
+Comment :=>> RunTest.test4_20P ... failed -> 0 Points because WeakAVLMap (wrong name: col106/assignment4/WeakAVLMap/WeakAVLMap)
+Comment :=>> RunTest.test5_20P ... failed -> 0 Points because WeakAVLMap (wrong name: col106/assignment4/WeakAVLMap/WeakAVLMap)
+Comment :=>> RunTest.test2_5P ... failed -> 0 Points because WeakAVLMap (wrong name: col106/assignment4/WeakAVLMap/WeakAVLMap)
+Comment :=>> RunTest.test3_5P ... failed -> 0 Points because WeakAVLMap (wrong name: col106/assignment4/WeakAVLMap/WeakAVLMap)
+Comment :=>> RunTest.test6_2P ... failed -> 0 Points because HashMap (wrong name: col106/assignment4/HashMap/HashMap)
+Comment :=>> RunTest.test7_2P ... failed -> 0 Points because HashMap (wrong name: col106/assignment4/HashMap/HashMap)
+Comment :=>> RunTest.test8_2P ... failed -> 0 Points because HashMap (wrong name: col106/assignment4/HashMap/HashMap)
+Comment :=>> RunTest.test9_4P ... failed -> 0 Points because HashMap (wrong name: col106/assignment4/HashMap/HashMap)
+
+Grade :=>> 0

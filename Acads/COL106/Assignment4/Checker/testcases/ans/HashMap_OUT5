@@ -1,0 +1,17 @@
+Put (djxrt,87): null
+Put (qocbq,1): null
+Put (afgqj,764): null
+Put (bpgln,83): null
+Put (wvidq,12): null
+Key Set: qocbq djxrt afgqj bpgln wvidq 
+Get wvidq: 12
+Get afgqj: 764
+Get djxrt: 87
+Get bpgln: 83
+Remove qocbq: true
+Key Set: bpgln djxrt afgqj wvidq 
+Contains qocbq: false
+Contains bpgln: true
+Get wvidq: 12
+Put (wvidq,100): 12
+Get wvidq: 100

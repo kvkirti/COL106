@@ -1,0 +1,19 @@
+Put (4,48): null
+Put (96,49): null
+Get 4: 48
+Search Range [4, 96]: 48 49 
+Search Range [4, 95]: 48 
+Put (92,89): null
+Remove 4: 48
+Put (6,10): null
+Put (58,66): null
+Put (50,31): null
+Remove 50: 31
+Put (8,82): null
+Get 8: 82
+Put (58,1): 66
+Get 58: 1
+Search Range [50, 100]: 1 89 49 
+Search Range [1, 100]: 10 82 1 89 49 
+Put (61,103): null
+Search Range [54, 62]: 1 103 

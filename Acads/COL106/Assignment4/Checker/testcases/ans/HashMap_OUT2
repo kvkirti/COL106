@@ -1,0 +1,13 @@
+Put (vspha,3): null
+Put (exkfg,2): null
+Put (vanad,31): null
+Get exkfg: 2
+Get vanad: 31
+Put (dfs,14): null
+Get dfs: 14
+Put (bfs,8907): null
+Get abcd: null
+Get exkfg: 2
+Get vanad: 31
+Get vspha: 3
+Get bfs: 8907

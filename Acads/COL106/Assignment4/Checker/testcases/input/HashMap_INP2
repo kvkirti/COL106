@@ -1,0 +1,28 @@
+TABLE_SIZE
+15485863
+PUT
+vspha, 3 
+PUT
+exkfg, 2
+PUT
+vanad, 31 
+GET
+exkfg
+GET
+vanad
+PUT
+dfs, 14
+GET
+dfs
+PUT
+bfs, 8907
+GET
+abcd
+GET
+exkfg
+GET
+vanad
+GET
+vspha
+GET
+bfs
